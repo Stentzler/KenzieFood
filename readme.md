@@ -1,3 +1,3 @@
 # Projeto criado para kenzie M2 Capstone
 
-## nothing to worry about
+## a lot of things to worry about
