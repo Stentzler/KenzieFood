@@ -1,3 +1,0 @@
-# Projeto criado para kenzie M2 Capstone
-
-## a....
